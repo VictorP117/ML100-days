@@ -24,4 +24,4 @@ Github這邊主要我就是放上每日的作業，詳細的心得之後會再�
 - 一、資料清理數據前處裡
   - [Day1 資料介紹與評估資料](https://github.com/VictorP117/ML100-days/blob/master/Homework/Day_001_HW.ipynb)
   - [Day2 機器學習概論](https://github.com/VictorP117/ML100-days/blob/master/Homework/Day_002_HW.ipynb)
-  - [機器學習 - 流程與步驟](https://github.com/VictorP117/ML100-days/blob/master/Homework/Day_003_HW.ipynb)
+  - [Day3 機器學習 - 流程與步驟](https://github.com/VictorP117/ML100-days/blob/master/Homework/Day_003_HW.ipynb)
